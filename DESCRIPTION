@@ -2,8 +2,8 @@ Package: scAnnot
 Type: Package
 Title: scAnnot: an automated annotation package for single-cell analysis
 Version: 1.0.0
-Author: Lu Pan
-Maintainer: Lu Pan
+Author: Lu Pan <eudoraleer@gmail.com>
+Maintainer: Lu Pan <eudoraleer@gmail.com>
 Description: scAnnot is an R package to run cell type annotation for scRNA-seq data based on the user-provided celltype-specific signature genes.
 License: MIT License
 Encoding: UTF-8
